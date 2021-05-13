@@ -13,6 +13,7 @@
     <Copyright>Copyright Distancify AB 2021</Copyright>
     <PackageTags>seq-app seq serilog event</PackageTags>
     <PackageIcon>Seq.App.Timeout.png</PackageIcon>
+    <Description>Writes a timeout event after a specified time period has elapsed, unless received any event resetting the timer.</Description>
   </PropertyGroup>
 
   <ItemGroup>
