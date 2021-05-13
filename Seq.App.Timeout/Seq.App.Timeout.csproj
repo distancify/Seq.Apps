@@ -9,7 +9,7 @@
     <Company>Distancify AB</Company>
     <Product></Product>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/distancify/Seq.App.Timeout</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/distancify/Seq.Apps</PackageProjectUrl>
     <Copyright>Copyright Distancify AB 2021</Copyright>
     <PackageTags>seq-app seq serilog event</PackageTags>
     <PackageIcon>Seq.App.Timeout.png</PackageIcon>
